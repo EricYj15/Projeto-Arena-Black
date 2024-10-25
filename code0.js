@@ -736,9 +736,9 @@ gdjs.copyArray(runtimeScene.getObjects("DinoDoux"), gdjs.Untitled_32sceneCode.GD
 gdjs.copyArray(runtimeScene.getObjects("DinoMort"), gdjs.Untitled_32sceneCode.GDDinoMortObjects1);
 /* Reuse gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1 */
 gdjs.copyArray(runtimeScene.getObjects("txt"), gdjs.Untitled_32sceneCode.GDtxtObjects1);
-{runtimeScene.getGame().getVariables().getFromIndex(0).add(1);
+{runtimeScene.getGame().getVariables().getFromIndex(1).add(1);
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDtxtObjects1.length ;i < len;++i) {
-    gdjs.Untitled_32sceneCode.GDtxtObjects1[i].getBehavior("Text").setText(gdjs.evtTools.variable.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(0)));
+    gdjs.Untitled_32sceneCode.GDtxtObjects1[i].getBehavior("Text").setText(gdjs.evtTools.variable.getVariableString(runtimeScene.getGame().getVariables().getFromIndex(1)));
 }
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
     gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].setPosition(500,300);
@@ -1245,6 +1245,7 @@ gdjs.copyArray(runtimeScene.getObjects("retry"), gdjs.Untitled_32sceneCode.GDret
     gdjs.Untitled_32sceneCode.GDloseObjects1[i].hide(false);
 }
 }{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
+}{runtimeScene.getGame().getVariables().getFromIndex(1).setNumber(0);
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
     gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].activateBehavior("Physics2", false);
 }
