@@ -85,6 +85,31 @@ gdjs.Untitled_32sceneCode.GDkickObjects2= [];
 gdjs.Untitled_32sceneCode.GDkickObjects3= [];
 gdjs.Untitled_32sceneCode.GDkickObjects4= [];
 gdjs.Untitled_32sceneCode.GDkickObjects5= [];
+gdjs.Untitled_32sceneCode.GDwinObjects1= [];
+gdjs.Untitled_32sceneCode.GDwinObjects2= [];
+gdjs.Untitled_32sceneCode.GDwinObjects3= [];
+gdjs.Untitled_32sceneCode.GDwinObjects4= [];
+gdjs.Untitled_32sceneCode.GDwinObjects5= [];
+gdjs.Untitled_32sceneCode.GDloseObjects1= [];
+gdjs.Untitled_32sceneCode.GDloseObjects2= [];
+gdjs.Untitled_32sceneCode.GDloseObjects3= [];
+gdjs.Untitled_32sceneCode.GDloseObjects4= [];
+gdjs.Untitled_32sceneCode.GDloseObjects5= [];
+gdjs.Untitled_32sceneCode.GDretryObjects1= [];
+gdjs.Untitled_32sceneCode.GDretryObjects2= [];
+gdjs.Untitled_32sceneCode.GDretryObjects3= [];
+gdjs.Untitled_32sceneCode.GDretryObjects4= [];
+gdjs.Untitled_32sceneCode.GDretryObjects5= [];
+gdjs.Untitled_32sceneCode.GDredeObjects1= [];
+gdjs.Untitled_32sceneCode.GDredeObjects2= [];
+gdjs.Untitled_32sceneCode.GDredeObjects3= [];
+gdjs.Untitled_32sceneCode.GDredeObjects4= [];
+gdjs.Untitled_32sceneCode.GDredeObjects5= [];
+gdjs.Untitled_32sceneCode.GDrede2Objects1= [];
+gdjs.Untitled_32sceneCode.GDrede2Objects2= [];
+gdjs.Untitled_32sceneCode.GDrede2Objects3= [];
+gdjs.Untitled_32sceneCode.GDrede2Objects4= [];
+gdjs.Untitled_32sceneCode.GDrede2Objects5= [];
 
 
 gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDDinoMortObjects1Objects = Hashtable.newFrom({"DinoMort": gdjs.Untitled_32sceneCode.GDDinoMortObjects1});
@@ -148,7 +173,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback7751500 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback10718308 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects5);
 
@@ -186,14 +211,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects4) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback7751500(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback10718308(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback10432548 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback9726532 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects4);
 
@@ -219,14 +244,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects3) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback10432548(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback9726532(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback11075372 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback11466860 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects3);
 
@@ -252,14 +277,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects2) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11075372(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11466860(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback9806196 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback11470228 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects2);
 
@@ -284,7 +309,7 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects1) asyncObject
 for (const obj of gdjs.Untitled_32sceneCode.GDDinoDouxObjects1) asyncObjectsList.addObject("DinoDoux", obj);
 for (const obj of gdjs.Untitled_32sceneCode.GDDinoMortObjects1) asyncObjectsList.addObject("DinoMort", obj);
 for (const obj of gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1) asyncObjectsList.addObject("LargeBlueBall", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback9806196(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11470228(runtimeScene, asyncObjectsList)));
 }
 }
 
@@ -293,7 +318,7 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), 
 
 };gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDLargeBlueBallObjects1Objects = Hashtable.newFrom({"LargeBlueBall": gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1});
 gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDP2Objects1Objects = Hashtable.newFrom({"P2": gdjs.Untitled_32sceneCode.GDP2Objects1});
-gdjs.Untitled_32sceneCode.asyncCallback11552060 = function (runtimeScene, asyncObjectsList) {
+gdjs.Untitled_32sceneCode.asyncCallback10828468 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects5);
 
@@ -331,14 +356,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects4) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11552060(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback10828468(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback11025740 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback11047132 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects4);
 
@@ -364,14 +389,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects3) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11025740(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11047132(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback10408892 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback11075372 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects3);
 
@@ -397,14 +422,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects2) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback10408892(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11075372(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback11074812 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback13223324 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects2);
 
@@ -429,7 +454,7 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects1) asyncObject
 for (const obj of gdjs.Untitled_32sceneCode.GDDinoDouxObjects1) asyncObjectsList.addObject("DinoDoux", obj);
 for (const obj of gdjs.Untitled_32sceneCode.GDDinoMortObjects1) asyncObjectsList.addObject("DinoMort", obj);
 for (const obj of gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1) asyncObjectsList.addObject("LargeBlueBall", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11074812(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback13223324(runtimeScene, asyncObjectsList)));
 }
 }
 
@@ -438,7 +463,7 @@ runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), 
 
 };gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDLargeBlueBallObjects1Objects = Hashtable.newFrom({"LargeBlueBall": gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1});
 gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDP1Objects1Objects = Hashtable.newFrom({"P1": gdjs.Untitled_32sceneCode.GDP1Objects1});
-gdjs.Untitled_32sceneCode.asyncCallback11540492 = function (runtimeScene, asyncObjectsList) {
+gdjs.Untitled_32sceneCode.asyncCallback11172876 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects5);
 
@@ -476,14 +501,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects4) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11540492(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11172876(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback11530740 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback11173652 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects4);
 
@@ -509,14 +534,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects3) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11530740(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11173652(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback11539108 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback10776900 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects3);
 
@@ -542,14 +567,14 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects2) asyncObject
 /* Don't save DinoDoux as it will be provided by the parent asyncObjectsList. */
 /* Don't save DinoMort as it will be provided by the parent asyncObjectsList. */
 /* Don't save LargeBlueBall as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11539108(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback10776900(runtimeScene, asyncObjectsList)));
 }
 }
 
 }
 
 
-};gdjs.Untitled_32sceneCode.asyncCallback11529252 = function (runtimeScene, asyncObjectsList) {
+};gdjs.Untitled_32sceneCode.asyncCallback11544820 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.Untitled_32sceneCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects2);
 
@@ -574,7 +599,7 @@ for (const obj of gdjs.Untitled_32sceneCode.GDCountdownTextObjects1) asyncObject
 for (const obj of gdjs.Untitled_32sceneCode.GDDinoDouxObjects1) asyncObjectsList.addObject("DinoDoux", obj);
 for (const obj of gdjs.Untitled_32sceneCode.GDDinoMortObjects1) asyncObjectsList.addObject("DinoMort", obj);
 for (const obj of gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1) asyncObjectsList.addObject("LargeBlueBall", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11529252(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(1), (runtimeScene) => (gdjs.Untitled_32sceneCode.asyncCallback11544820(runtimeScene, asyncObjectsList)));
 }
 }
 
@@ -614,7 +639,11 @@ gdjs.copyArray(runtimeScene.getObjects("DinoDoux"), gdjs.Untitled_32sceneCode.GD
 }
 
 
-};gdjs.Untitled_32sceneCode.eventsList14 = function(runtimeScene) {
+};gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDredeObjects1Objects = Hashtable.newFrom({"rede": gdjs.Untitled_32sceneCode.GDredeObjects1});
+gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDLargeBlueBallObjects1Objects = Hashtable.newFrom({"LargeBlueBall": gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1});
+gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDrede2Objects1Objects = Hashtable.newFrom({"rede2": gdjs.Untitled_32sceneCode.GDrede2Objects1});
+gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDLargeBlueBallObjects1Objects = Hashtable.newFrom({"LargeBlueBall": gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1});
+gdjs.Untitled_32sceneCode.eventsList14 = function(runtimeScene) {
 
 {
 
@@ -834,7 +863,7 @@ if (isConditionTrue_0) {
     gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].getBehavior("Physics2").setFixedRotation(true);
 }
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
-    gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].getBehavior("Physics2").applyForce(-(30), -(10), 0, 0);
+    gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].getBehavior("Physics2").applyForce(-(30), -(20), 0, 0);
 }
 }{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDinoMortObjects1.length ;i < len;++i) {
     gdjs.Untitled_32sceneCode.GDDinoMortObjects1[i].getBehavior("Animation").setAnimationName("Kick");
@@ -1142,10 +1171,179 @@ gdjs.Untitled_32sceneCode.eventsList13(runtimeScene);} //End of subevents
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("txt"), gdjs.Untitled_32sceneCode.GDtxtObjects1);
 
 let isConditionTrue_0 = false;
-{
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.Untitled_32sceneCode.GDtxtObjects1.length;i<l;++i) {
+    if ( gdjs.Untitled_32sceneCode.GDtxtObjects1[i].getBehavior("Text").getText() == "5" ) {
+        isConditionTrue_0 = true;
+        gdjs.Untitled_32sceneCode.GDtxtObjects1[k] = gdjs.Untitled_32sceneCode.GDtxtObjects1[i];
+        ++k;
+    }
 }
+gdjs.Untitled_32sceneCode.GDtxtObjects1.length = k;
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects1);
+gdjs.copyArray(runtimeScene.getObjects("DinoDoux"), gdjs.Untitled_32sceneCode.GDDinoDouxObjects1);
+gdjs.copyArray(runtimeScene.getObjects("DinoMort"), gdjs.Untitled_32sceneCode.GDDinoMortObjects1);
+gdjs.copyArray(runtimeScene.getObjects("LargeBlueBall"), gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1);
+gdjs.copyArray(runtimeScene.getObjects("retry"), gdjs.Untitled_32sceneCode.GDretryObjects1);
+gdjs.copyArray(runtimeScene.getObjects("win"), gdjs.Untitled_32sceneCode.GDwinObjects1);
+{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDCountdownTextObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDCountdownTextObjects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDwinObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDwinObjects1[i].hide(false);
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDretryObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDretryObjects1[i].hide(false);
+}
+}{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].activateBehavior("Physics2", false);
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDinoMortObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDDinoMortObjects1[i].activateBehavior("PlatformerObject", false);
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDinoDouxObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDDinoDouxObjects1[i].activateBehavior("PlatformerObject", false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("txt1"), gdjs.Untitled_32sceneCode.GDtxt1Objects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.Untitled_32sceneCode.GDtxt1Objects1.length;i<l;++i) {
+    if ( gdjs.Untitled_32sceneCode.GDtxt1Objects1[i].getBehavior("Text").getText() == "5" ) {
+        isConditionTrue_0 = true;
+        gdjs.Untitled_32sceneCode.GDtxt1Objects1[k] = gdjs.Untitled_32sceneCode.GDtxt1Objects1[i];
+        ++k;
+    }
+}
+gdjs.Untitled_32sceneCode.GDtxt1Objects1.length = k;
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("CountdownText"), gdjs.Untitled_32sceneCode.GDCountdownTextObjects1);
+gdjs.copyArray(runtimeScene.getObjects("DinoDoux"), gdjs.Untitled_32sceneCode.GDDinoDouxObjects1);
+gdjs.copyArray(runtimeScene.getObjects("DinoMort"), gdjs.Untitled_32sceneCode.GDDinoMortObjects1);
+gdjs.copyArray(runtimeScene.getObjects("LargeBlueBall"), gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1);
+gdjs.copyArray(runtimeScene.getObjects("lose"), gdjs.Untitled_32sceneCode.GDloseObjects1);
+gdjs.copyArray(runtimeScene.getObjects("retry"), gdjs.Untitled_32sceneCode.GDretryObjects1);
+{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDCountdownTextObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDCountdownTextObjects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDretryObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDretryObjects1[i].hide(false);
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDloseObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDloseObjects1[i].hide(false);
+}
+}{runtimeScene.getGame().getVariables().getFromIndex(0).setNumber(0);
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].activateBehavior("Physics2", false);
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDinoMortObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDDinoMortObjects1[i].activateBehavior("PlatformerObject", false);
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDDinoDouxObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDDinoDouxObjects1[i].activateBehavior("PlatformerObject", false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("retry"), gdjs.Untitled_32sceneCode.GDretryObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.Untitled_32sceneCode.GDretryObjects1.length;i<l;++i) {
+    if ( gdjs.Untitled_32sceneCode.GDretryObjects1[i].IsPressed((typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined)) ) {
+        isConditionTrue_0 = true;
+        gdjs.Untitled_32sceneCode.GDretryObjects1[k] = gdjs.Untitled_32sceneCode.GDretryObjects1[i];
+        ++k;
+    }
+}
+gdjs.Untitled_32sceneCode.GDretryObjects1.length = k;
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Untitled scene", false);
+}}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("lose"), gdjs.Untitled_32sceneCode.GDloseObjects1);
+gdjs.copyArray(runtimeScene.getObjects("retry"), gdjs.Untitled_32sceneCode.GDretryObjects1);
+gdjs.copyArray(runtimeScene.getObjects("txt"), gdjs.Untitled_32sceneCode.GDtxtObjects1);
+gdjs.copyArray(runtimeScene.getObjects("txt1"), gdjs.Untitled_32sceneCode.GDtxt1Objects1);
+gdjs.copyArray(runtimeScene.getObjects("win"), gdjs.Untitled_32sceneCode.GDwinObjects1);
+{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDwinObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDwinObjects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDloseObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDloseObjects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDretryObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDretryObjects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDtxtObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDtxtObjects1[i].getBehavior("Text").setText("0");
+}
+}{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDtxt1Objects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDtxt1Objects1[i].getBehavior("Text").setText("0");
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("LargeBlueBall"), gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1);
+gdjs.copyArray(runtimeScene.getObjects("rede"), gdjs.Untitled_32sceneCode.GDredeObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.physics2.objectsCollide(gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDredeObjects1Objects, "Physics2", gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDLargeBlueBallObjects1Objects, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1 */
+{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].getBehavior("Physics2").applyForce(-(5), 2, 0, 0);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("LargeBlueBall"), gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1);
+gdjs.copyArray(runtimeScene.getObjects("rede2"), gdjs.Untitled_32sceneCode.GDrede2Objects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.physics2.objectsCollide(gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDrede2Objects1Objects, "Physics2", gdjs.Untitled_32sceneCode.mapOfGDgdjs_9546Untitled_959532sceneCode_9546GDLargeBlueBallObjects1Objects, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1 */
+{for(var i = 0, len = gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1.length ;i < len;++i) {
+    gdjs.Untitled_32sceneCode.GDLargeBlueBallObjects1[i].getBehavior("Physics2").applyForce(5, 2, 0, 0);
+}
+}}
 
 }
 
@@ -1240,6 +1438,31 @@ gdjs.Untitled_32sceneCode.GDkickObjects2.length = 0;
 gdjs.Untitled_32sceneCode.GDkickObjects3.length = 0;
 gdjs.Untitled_32sceneCode.GDkickObjects4.length = 0;
 gdjs.Untitled_32sceneCode.GDkickObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects1.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects2.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects3.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects4.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects5.length = 0;
 
 gdjs.Untitled_32sceneCode.eventsList14(runtimeScene);
 gdjs.Untitled_32sceneCode.GDDinoDouxObjects1.length = 0;
@@ -1327,6 +1550,31 @@ gdjs.Untitled_32sceneCode.GDkickObjects2.length = 0;
 gdjs.Untitled_32sceneCode.GDkickObjects3.length = 0;
 gdjs.Untitled_32sceneCode.GDkickObjects4.length = 0;
 gdjs.Untitled_32sceneCode.GDkickObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDwinObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDloseObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDretryObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects1.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects2.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects3.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects4.length = 0;
+gdjs.Untitled_32sceneCode.GDredeObjects5.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects1.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects2.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects3.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects4.length = 0;
+gdjs.Untitled_32sceneCode.GDrede2Objects5.length = 0;
 
 
 return;
