@@ -6,6 +6,8 @@ gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects1= [];
 gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects2= [];
 gdjs.Tela_32inicialCode.GDNewSpriteObjects1= [];
 gdjs.Tela_32inicialCode.GDNewSpriteObjects2= [];
+gdjs.Tela_32inicialCode.GDpontuacaoObjects1= [];
+gdjs.Tela_32inicialCode.GDpontuacaoObjects2= [];
 
 
 gdjs.Tela_32inicialCode.eventsList0 = function(runtimeScene) {
@@ -39,6 +41,7 @@ for (var i = 0, k = 0, l = gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueOb
 gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects1.length = k;
 if (isConditionTrue_0) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Untitled scene", false);
+}{gdjs.evtTools.window.setFullScreen(runtimeScene, true, true);
 }}
 
 }
@@ -55,6 +58,8 @@ gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects1.length = 0;
 gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects2.length = 0;
 gdjs.Tela_32inicialCode.GDNewSpriteObjects1.length = 0;
 gdjs.Tela_32inicialCode.GDNewSpriteObjects2.length = 0;
+gdjs.Tela_32inicialCode.GDpontuacaoObjects1.length = 0;
+gdjs.Tela_32inicialCode.GDpontuacaoObjects2.length = 0;
 
 gdjs.Tela_32inicialCode.eventsList0(runtimeScene);
 gdjs.Tela_32inicialCode.GDNewTiledSpriteObjects1.length = 0;
@@ -63,6 +68,8 @@ gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects1.length = 0;
 gdjs.Tela_32inicialCode.GDFloatingOutButtonDarkBlueObjects2.length = 0;
 gdjs.Tela_32inicialCode.GDNewSpriteObjects1.length = 0;
 gdjs.Tela_32inicialCode.GDNewSpriteObjects2.length = 0;
+gdjs.Tela_32inicialCode.GDpontuacaoObjects1.length = 0;
+gdjs.Tela_32inicialCode.GDpontuacaoObjects2.length = 0;
 
 
 return;
